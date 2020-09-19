@@ -25,3 +25,5 @@ CHI-3
 
 ## References
 - [mysql | dockerhub](https://hub.docker.com/_/mysql)
+- [【MySQL】 group_concatでjsonを作る | Qiita](https://qiita.com/katsuhito123/items/eb209afcc836b2a06ee7)
+- [MySQLのGROUP_CONCAT関数の結果が切れる事象の対策 | Qiita](https://qiita.com/nwsoyogi/items/196cb92f79c6f01871e0)

@@ -20,5 +20,8 @@ docker-compose build
 docker-compose up -d
 ```
 
+## Author
+CHI-3
+
 ## References
 - [mysql | dockerhub](https://hub.docker.com/_/mysql)

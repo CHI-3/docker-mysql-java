@@ -19,6 +19,8 @@ docker-compose build
 ```
 docker-compose up -d
 ```
+## Note
+The Excel file named 'insert_data' under 'data' directory helps you to add records to tables.
 
 ## Author
 CHI-3

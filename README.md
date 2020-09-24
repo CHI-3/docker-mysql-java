@@ -2,7 +2,7 @@
 docker-mysql-java
 
 ## Overview
-sample source for using mysql with java sample code: mysql-json-java
+sample source for using mysql with java sample code: 'mysql-json-java' and 'java-stream-api-like-sql'
 
 ## Requirement
 - Docker or Docker Toolbox
